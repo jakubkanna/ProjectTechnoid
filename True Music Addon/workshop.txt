@@ -1,6 +1,6 @@
 version=1
-id=project_technoid
-title=True Music Addon: Project Technoid
-description=An addon to the True Music mod featuring over 100 techno tracks released between 1990 and 1999.
+id=
+title=True Music Addon: *write unique name*
+description=*write unique description*
 tags=Build 41;Multiplayer;Pop Culture
-visibility=public
+visibility=unlisted
