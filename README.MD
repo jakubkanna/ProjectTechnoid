@@ -1,101 +1,62 @@
-# Adding Your Own Music to True Music Mod
+### Prerequisites
 
-## Singleplayer Instructions
+1. Ensure you have GitHub CLI installed on your desktop. You can download it from [here](https://cli.github.com/).
 
-### Step-by-Step Guide
+### How to Edit This Repository
 
-1. **Video Tutorial:**
-   Watch the video tutorial for a visual guide: [YouTube Tutorial](https://youtu.be/9DZghSBPOy4)
+1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the repository page. This will create a copy of the repository in your GitHub account.
 
-2. **Locate the Music Folder:**
-   Navigate to the directory:
-   `\workshop\content\108600\2613146550\mods\True Music\media\yourMusic`
+2. **Add/Edit Music**:
 
-3. **Extract Music Files:**
+   - Follow the tutorial provided by the mod author to convert your music files to the required format. You can find the tutorial [here](https://youtu.be/b7SUjPzmgfM?si=Jknd_C1hbP4IK5Ko&t=45).
+   - While on the `dev` branch, ensure that you have removed `.mp3` files after conversion. However, do not remove other folders at this stage.
 
-- Extract the contents of `yourMusic.rar` or `yourMusic.zip`.
-- If your file is named `yourMusic.zi`, rename it to `yourMusic.zip` before extraction.
-- Extract the files to the `yourMusic` folder.
+3. **Stage Changes**: Use the following command to stage your changes:
 
-4. **Place Audio Files:**
+   ```bash
+   git add .
+   ```
 
-- Put your audio files (mp3, wav, ogg) into the appropriate folders:
-  - `TCBoombox`
-  - `TCVinylplayer`
+4. **Commit Changes**: Commit your changes with a descriptive message using the following command:
 
-5. **Optional: Add Vinyl Cover Photos:**
+   ```bash
+   git commit -m "<Your commit message here e.g ' Artist Name - Track Title - ADDED'>"
+   ```
 
-- Place jpg cover photos in the `TCVinylplayer` folder.
-- The cover photo should have the same name as the music track file.
-- Example:
-  - Track file: `AC DC - Highway To Hell (1979).mp3`
-  - Cover file: `AC DC - Highway To Hell (1979).jpg`
-- You can find cover images by searching: `"AC DC - Highway To Hell vinyl cover"`
+5. **Push Changes**: Push your changes to your forked repository with the following command:
 
-6. **Run the Converter:**
+   ```bash
+   git push origin dev
+   ```
 
-- Run `AddYourMusicToTheMod.exe`.
-- Depending on the folder where the files are placed, either a cassette or vinyl will be generated.
+6. **Switch Branch to Main**: Switch to the `main` branch using the following command:
 
-7. **In-Game:**
+   ```bash
+   git checkout main
+   ```
 
-- Your cassettes and vinyl records will start spawning in the game world. You'll need to find them while playing.
+7. **Merge Changes**: Merge your changes from the `dev` branch to the `main` branch using the following command:
 
-## Multiplayer Instructions
+   ```bash
+   git merge dev
+   ```
 
-### Step-by-Step Guide
+8. **Update Music Folder**: In the `True Music Addon\Contents\mods\truemusic_addon\media\yourMusic` folder, delete everything except the `TCVinylplayer` and `TCBoombox` sub-folders.
 
-1. **Video Tutorial:**
-   Watch the video tutorial for a visual guide: [YouTube Tutorial](https://youtu.be/b7SUjPzmgfM)
+9. **Stage Changes**: Stage your deletion changes using the following command:
 
-2. **Create a New Mod:**
+   ```bash
+   git add .
+   ```
 
-- Use the template to create a new mod: [Mod Template](https://disk.yandex.com/d/iS8o8ZxnV7UxLA)
-
-3. **Modify `mod.info`:**
-
-- Change the ID to your own in the `mod.info` file.
-
-4. **Rename Files to Avoid Conflicts:**
-
-- To prevent conflicts with other True Music addons, rename the following files by adding your mod Workshop ID to their names:
-  ```
-  media\lua\server\Items\TCGLoadingTCBoombox.lua
-  media\lua\server\Items\TCGLoadingTCVinylplayer.lua
-  media\lua\shared\TCGMusicDefenitionsTCBombox.lua
-  media\lua\shared\TCGMusicDefenitionsTCVinylplayer.lua
-  media\scripts\TCGMusicScriptTCBoombox.txt
-  media\scripts\TCTCGMusicScriptTCVinylplayer.txt
-  media\scripts\TCGSoundsTCBombox.txt
-  media\scripts\TCGSoundsTCVinylplayer.txt
-  ```
-  - Example with Workshop ID:
-    ```
-    media\lua\server\Items\TCGLoadingTCBoombox2722332157.lua
-    media\lua\server\Items\TCGLoadingTCVinylplayer2722332157.lua
-    media\lua\shared\TCGMusicDefenitionsTCBombox2722332157.lua
-    media\lua\shared\TCGMusicDefenitionsTCVinylplayer2722332157.lua
-    media\scripts\TCGMusicScriptTCBoombox2722332157.txt
-    media\scripts\TCTCGMusicScriptTCVinylplayer2722332157.txt
-    media\scripts\TCGSoundsTCBoombox2722332157.txt
-    media\scripts\TCGSoundsTCVinylplayer2722332157.txt
+10. **Commit Changes**: Commit your deletion changes with a descriptive message using the following command:
+    ```bash
+    git commit -m "Cleanup"
     ```
 
-5. **Distribute the Mod:**
+Your changes will be reviewed, and upon verification, your pull request will be accepted.
 
-- Send the mod to all users on the server. You are allowed to publish a mod created from the template.
+### Additional Sources
 
-6. **Uploading to Workshop:**
-
-- If you want to upload your mod to the Workshop, delete the following folders and files:
-  ```
-  \media\yourMusic\audioConverter
-  \media\yourMusic\pictureConverter
-  \media\yourMusic\AddYourMusicToTheMod.exe
-  \media\yourMusic\DeleteYourMusicFromTheMod.exe
-  ```
-
-## Additional Tools
-
-- **YouTube Playlist Downloader:**
-  Download music from YouTube playlists using this tool: [GitHub Repository](https://github.com/shaked6540/YoutubePlaylistDownloader?tab=readme-ov-file)
+- [YouTube Playlist Downloader](https://github.com/shaked6540/YoutubePlaylistDownloader)
+- [Steam Workshop - True Music Addon](https://steamcommunity.com/workshop/filedetails/?id=2613146550)
