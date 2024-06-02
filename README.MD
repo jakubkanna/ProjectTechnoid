@@ -1,6 +1,6 @@
 ### Prerequisites
 
-1. Ensure you have GitHub CLI installed on your desktop. You can download it from [here](https://cli.github.com/).
+1. Ensure you have GitHub installed on your desktop: [Install git](https://github.com/git-guides/install-git)
 
 ### How to Edit This Repository
 
