@@ -1,0 +1,999 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item Vinyl02MikeInk&TheChainOfBrotherhoodLovelyUglyBrutalWorld
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl 02 Mike Ink & The Chain Of Brotherhood - Lovely Ugly Brutal World,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item Vinyl04ScarfaceSpeedyGonzales
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl 04 Scarface - Speedy Gonzales,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item Vinyl06ControlDCRitmoDell'Diavolo(InfernoMuteMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl 06 Control DC - Ritmo Dell' Diavolo (Inferno Mute Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item Vinyl19Thunderdome9Megamix
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl 19  - Thunderdome 9 Megamix,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item Vinyl19Megamix
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl 19 Megamix,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item Vinyl20Thunderdome16TheMegamix
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl 20 Thunderdome16 - The Megamix,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item Vinyl4HorsemenoftheApocalypseDrowningInHer(1993)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl 4 Horsemen of the Apocalypse - Drowning In Her (1993),
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylAMSTARUFO(1991)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl A.M. STAR - U.F.O.  (1991),
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylAbetTheSweetestSong
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Abet - The Sweetest Song,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylAdamBeyer&ThomasKromeFalkoping
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Adam Beyer & Thomas Krome - Falkoping,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylAnalogDynamixWelcomeTo1995(AcidHardTrance)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Analog Dynamix - Welcome To... 1995 (Acid Hard Trance),
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylAphexTwinFresher+Cleaner
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Aphex Twin - Fresher + Cleaner,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylAstralPilotTheDayAfter(1995)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Astral Pilot - The Day After (1995),
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylBlakeBaxterOneMoreTime
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Blake Baxter - One More Time,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylBodylotionAlwaysHardcore
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Bodylotion - Always Hardcore,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylBukem&ThePeshay195
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Bukem & The Peshay - 19.5,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylBuzzFuzzDLeria
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Buzz Fuzz - D-Leria,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylCanDMusic(Navigator)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Can-D-Music (Navigator),
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylCherryMoontrax1Thehouseofhouse
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Cherry Moon trax 1 _ The house of house,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylChrisLiebingChordDive(1999)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Chris Liebing - Chord Dive (1999),
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylCJBollandMantra
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl CJ Bolland - Mantra,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylDaHoolmeetherattheLoveparadeOfficialVideo(HQ)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Da Hool - meet her at the Loveparade -  Official Video (HQ),
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylDance2TranceLet'sGetRollin'(1991)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Dance 2 Trance - Let's Get Rollin' (1991),
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylDarkLitesGravel(Acid1996)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Dark-Lites - Gravel (Acid 1996),
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylDarudeSandstorm
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Darude - Sandstorm,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylDeepBlue&BlameReTransitions
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Deep Blue & Blame - Re-Transitions,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylDisX3Profane
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl DisX3 - Profane,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylDJMetatronNotAPerfectParty(OpeningSpeech)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl DJ Metatron - Not A Perfect Party (Opening Speech) ,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylDjPaulElstakPaul'sNightmare
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Dj Paul Elstak - Paul's Nightmare,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylDJTom&NormanFlash
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl DJ Tom & Norman - Flash,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylElectronicExperiencedV10Overload
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Electronic Experienced - V-10 Overload,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylFaithlessInsomnia(Official4KVideo)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Faithless - Insomnia (Official 4K Video),
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylFastFloorPlightOfTheInnovators(1993)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Fast Floor - Plight Of The Innovators (1993),
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylFlamman&AbraxasDrugs(JuggernautMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Flamman & Abraxas - Drugs (Juggernaut Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylForceMassMotionEsthisis
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Force Mass Motion - Esthisis,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylGaetanoParisio1999(A1)untitled
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Gaetano Parisio - 19-99 (A1) untitled,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylGaetanoParisioAdvancedTechnoResearch8(A)wmv
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Gaetano Parisio - Advanced Techno Research 8 (A).wmv,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylGaetekDryFrequencies
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Gaetek - Dry Frequencies,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylGrooveriderSinister(TheInfluenceRemix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Grooverider-Sinister(The Influence Remix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylHedgehogAffairRushTilDawnTheseAreTheSoundsOfHouse
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Hedgehog Affair - Rush Til Dawn - These Are The Sounds Of House,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylHellfishTechnocity
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Hellfish - Techno city,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylHiroakiIizukaSurge
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Hiroaki Iizuka - Surge,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylHolyGhost4AMattheCryingCactus
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Holy Ghost - 4 AM at the Crying Cactus,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylInfernoBrothers(PCP)SlavesToTheRave(1995)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Inferno Brothers (PCP)  -  Slaves To The Rave (1995),
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylIronikFantasy(LightMix)LiftinSpiritReloaded
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Ironik - Fantasy (Light Mix) Liftin Spirit Reloaded,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylJackNPhilTekTrak(BasementRecords)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Jack N Phil - Tek Trak (Basement Records),
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylJeffMillsJava(1996)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Jeff Mills - Java (1996),
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylJeffMillsLateNight(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Jeff Mills - Late Night (1992),
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylJeffMillsSet
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Jeff Mills - Set ,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylJeremiahExoticIntercourse(Acid1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Jeremiah - Exotic Intercourse (Acid 1997),
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylJoeTVannelliPlayWithTheVoice
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Joe T. Vannelli - Play With The Voice,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylJoeyBeltramFractalswmv
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Joey Beltram - Fractals.wmv,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylJones&StephensonGummiringeBonzaiRecords1996
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Jones & Stephenson - Gummiringe - Bonzai Records - 1996,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylKNIGHTVISIONHUMANOID
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl KNIGHTVISION-HUMANOID,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylLegendBLostInLove(SysexStyleMix)(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Legend B - Lost In Love (Sysex Style-Mix) (1994),
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylLegendBLostInLove
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Legend B Lost In Love,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylLeoLakerOurTimes
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Leo Laker - Our Times,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylLeoLakerTM1
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Leo Laker - TM 1,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylLeoLakerTM2
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Leo Laker - TM2,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylLimeIdon'twannaloseyou
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Lime - I don't wanna lose you,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylLordsOfIllusionsetifoff(Mokum62)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Lords Of Illusion - set if off (Mokum 62),
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylMarcAcardipaneFeatDickRulesILikeItLoud
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Marc Acardipane Feat Dick Rules - I Like It Loud,
+		WorldStaticModel = Tsarcraft.TCVinylrecord8,
+	}
+
+	item VinylMarcoCarola&AdamBeyerExchange
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Marco Carola & Adam Beyer - Exchange,
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylMentalProfusionIsaxAcid
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Mental Profusion   Isax Acid,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylMobyNextIsTheE(SyntheMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Moby - Next Is The E (Synthe Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylMobyMobyHymn(Menacing)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Moby Moby - Hymn (Menacing),
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylNostrumBrainchild(1996)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Nostrum - Brainchild (1996),
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylOmnicronWondermob
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Omnicron - Wondermob,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylPandemoniumWelcomeTooHell
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Pandemonium - Welcome Too Hell,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylPeteLazonbySacredCycles(OriginalMix)(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Pete Lazonby - Sacred Cycles (Original Mix) (1994),
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylPlastikmanKrakpot
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Plastikman - Krakpot,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylPressureFunkPressureTheme(PercyXRemix)(B2)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Pressure Funk - Pressure Theme (Percy X Remix) (B2),
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylPreziosoFeelTheRhythm(StunnedGuysRmx)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Prezioso - Feel The Rhythm (Stunned Guys Rmx),
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylPublicEnergyThreeO'Three(1993)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Public Energy - Three O' Three ( 1993 ),
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylRedHeadResidual(Acid1998)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Red Head - Residual (Acid 1998),
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylRegisTheBlackFreighter
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Regis - _The Black Freighter_,
+		WorldStaticModel = Tsarcraft.TCVinylrecord1,
+	}
+
+	item VinylRinoCerroneIndiction
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Rino Cerrone - Indiction,
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylRobertHoodPuppetShow
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Robert Hood - _Puppet Show_,
+		WorldStaticModel = Tsarcraft.TCVinylrecord7,
+	}
+
+	item VinylRobertMilesChildren(OfficialVideo)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Robert Miles - Children (Official Video),
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylSamuelLSessionCatchMyDrift
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Samuel L Session - Catch My Drift,
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylSamuelLSessionsPresInYourBoxCityMusic(OriginalMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Samuel L Sessions Pres. In Your Box - City Music (Original Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylScanXMetempsychose
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Scan X - Metempsychose,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylStannyFranssenTransferRoom(OriginalMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Stanny Franssen - Transfer Room (Original Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylSteveStollGTI
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Steve Stoll - GTI,
+		WorldStaticModel = Tsarcraft.TCVinylrecord2,
+	}
+
+	item VinylSubStanceGravity(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Sub-Stance - Gravity (1994),
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylSunbeamOutsideWorld
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Sunbeam - Outside World,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylSurgeonBadgerBite
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Surgeon -   Badger Bite,
+		WorldStaticModel = Tsarcraft.TCVinylrecord10,
+	}
+
+	item VinylTheAnthillMobAntology(Original)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl The Anthill Mob - Antology (Original),
+		WorldStaticModel = Tsarcraft.TCVinylrecord3,
+	}
+
+	item VinylTheInvisibleManTheBellTune
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Invisible Man - The Bell Tune,
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+	item VinylTicTacToeEphemerol(MickeyFinnFabio&GrooveriderRemix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Tic Tac Toe - Ephemerol (Mickey Finn Fabio & Grooverider Remix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylTranceTeamBreathofLife(TheBirth)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Trance Team - Breath of Life (The Birth),
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylUmekGlurenorm
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Umek - Glurenorm,
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylVainqueurLyot(MaurizioMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Vainqueur - Lyot (Maurizio Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord6,
+	}
+
+	item VinylVernonVernon'sWonderland(1993)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Vernon - Vernon's Wonderland (1993),
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item VinylVisaLetMeSeeYaMove(CarlCoxMix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Visa - Let Me See Ya Move (Carl Cox Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord5,
+	}
+
+	item VinylVisaLetMeSeeYaMove(StuAllan93Mix)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Visa - Let Me See Ya Move (Stu Allan 93 Mix),
+		WorldStaticModel = Tsarcraft.TCVinylrecord11,
+	}
+
+	item Vinylwhoopsxthefirstrebirth(thunderdome1993)mix
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl whoops x the first rebirth (thunderdome 1993) mix,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylXIteCyberworld(OriginalMix)1996
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl X-Ite - Cyberworld (Original Mix) 1996,
+		WorldStaticModel = Tsarcraft.TCVinylrecord9,
+	}
+
+	item VinylZiggyPTekkknozid(Instruction)(A)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Ziggy P. - Tekkknozid (Instruction) (A),
+		WorldStaticModel = Tsarcraft.TCVinylrecord4,
+	}
+
+}

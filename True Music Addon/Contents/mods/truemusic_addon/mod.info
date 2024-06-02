@@ -1,0 +1,5 @@
+name=Project Technoid
+poster=poster.png
+id=project_technoid
+require=truemusic
+description=Techno addon.
